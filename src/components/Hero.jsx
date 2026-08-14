@@ -20,7 +20,7 @@ export default function Hero() {
             </p>
             <div className="d-flex flex-wrap gap-3">
               <a href="#projects" className="btn-primary-glow">View Projects</a>
-              <a href="/Gaurav_Sharma_Resume.pdf" download className="btn-outline-glow">
+              <a href="/Gaurav_Sharma_Resume.pdf" download="Gaurav_Sharma_Resume.pdf" className="btn-outline-glow">
                 <i className="bi bi-download me-2"></i>Download Resume
               </a>
             </div>
