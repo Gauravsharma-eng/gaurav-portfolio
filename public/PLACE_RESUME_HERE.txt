@@ -1,0 +1,5 @@
+Add your actual resume PDF here, named:
+  Gaurav_Sharma_Resume.pdf
+
+Hero.jsx already links to /Gaurav_Sharma_Resume.pdf for the
+"Download Resume" button.
