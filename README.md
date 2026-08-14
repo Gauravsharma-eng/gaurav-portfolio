@@ -35,8 +35,8 @@ This project is pre-wired to install Bootstrap 5 and AOS as npm packages and imp
 directly in `src/main.jsx`:
 
 ```bash
-npm run dev 
-npm install dev      # local dev server
+npm install dev 
+npm run dev  # local dev server
 npm run build     # production build → dist/
 ```
 
